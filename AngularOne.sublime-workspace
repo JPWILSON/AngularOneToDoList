@@ -1,0 +1,1502 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ass",
+				"assertEqual"
+			],
+			[
+				"na",
+				"navMenu"
+			],
+			[
+				"rota",
+				"rotateDegs"
+			],
+			[
+				"get",
+				"getSeconds"
+			],
+			[
+				"ro",
+				"rotation"
+			],
+			[
+				"seC",
+				"secVal"
+			],
+			[
+				"wr",
+				"wrapper"
+			],
+			[
+				"re",
+				"repeatedString"
+			],
+			[
+				"va",
+				"valley"
+			],
+			[
+				"val",
+				"valley_count"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"mid",
+				"midpoint"
+			],
+			[
+				"n",
+				"no_to_find"
+			],
+			[
+				"column",
+				"grid-column-start\tproperty"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"col-r",
+				"column-rule\tproperty"
+			],
+			[
+				"ov",
+				"overflow\tproperty"
+			],
+			[
+				"a",
+				"auto\toverflow"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"ta",
+				"ta-j\ttext-align: justify;"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"mg",
+				"margin-top\tproperty"
+			],
+			[
+				"transition",
+				"transition-property\tproperty"
+			],
+			[
+				"tran",
+				"transform\tproperty"
+			],
+			[
+				"pr",
+				"pos-r\tposition: relative;"
+			],
+			[
+				"ls",
+				"list-style\tproperty"
+			],
+			[
+				"tw",
+				"tweets"
+			],
+			[
+				"send",
+				"send_header"
+			],
+			[
+				"BAs",
+				"BaseHTTPRequestHandler"
+			],
+			[
+				"dec",
+				"declarative_base"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"use",
+				"user_id"
+			],
+			[
+				"ed",
+				"edited_tweet_from_form"
+			],
+			[
+				"Tw",
+				"Tweet"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"us",
+				"user_id"
+			],
+			[
+				"sen",
+				"send_header"
+			],
+			[
+				"u",
+				"utf-8"
+			],
+			[
+				"Cont",
+				"content-type"
+			],
+			[
+				"end",
+				"endswith"
+			],
+			[
+				"BaseHT",
+				"BaseHTTPRequestHandler"
+			],
+			[
+				"session",
+				"sessionmaker"
+			],
+			[
+				"form",
+				"form-data"
+			],
+			[
+				"main",
+				"main_path_var"
+			],
+			[
+				"Base",
+				"BaseHTTPRequestHandler"
+			],
+			[
+				"for",
+				"form-data"
+			],
+			[
+				"con",
+				"content_type"
+			],
+			[
+				"me",
+				"msg_content"
+			],
+			[
+				"di",
+				"dictionay_items"
+			],
+			[
+				"send_",
+				"send_response"
+			],
+			[
+				"de",
+				"declarative_base"
+			],
+			[
+				"sq",
+				"sqlalchemy"
+			],
+			[
+				"sl",
+				"sqlalchemy"
+			],
+			[
+				"li",
+				"list_two"
+			],
+			[
+				"list",
+				"list_one"
+			],
+			[
+				"lo",
+				"lower_bound"
+			],
+			[
+				"lw",
+				"low_bound"
+			],
+			[
+				"low",
+				"low_bound"
+			],
+			[
+				"hig",
+				"high_bound"
+			],
+			[
+				"root",
+				"root_est"
+			],
+			[
+				"roo",
+				"root_est"
+			],
+			[
+				"ne",
+				"new_val"
+			],
+			[
+				"pre",
+				"preorder_print"
+			],
+			[
+				"in",
+				"input_array"
+			],
+			[
+				"inse",
+				"insert_first"
+			],
+			[
+				"sea",
+				"search_helper"
+			],
+			[
+				"s",
+				"search_helper"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"ab",
+				"abbs"
+			],
+			[
+				"abbre",
+				"abbrev"
+			],
+			[
+				"abbr",
+				"abbrev"
+			],
+			[
+				"jsC",
+				"jsContent"
+			],
+			[
+				"seac",
+				"preorder_search"
+			],
+			[
+				"search",
+				"search_helper"
+			],
+			[
+				"insert",
+				"insert_helper"
+			],
+			[
+				"No",
+				"Node"
+			],
+			[
+				"dele",
+				"delete_first"
+			],
+			[
+				"p1",
+				"p1Last"
+			],
+			[
+				"inv",
+				"inventorsAges"
+			],
+			[
+				"firs",
+				"firstLast"
+			],
+			[
+				"fir",
+				"firstLast"
+			],
+			[
+				"shuff",
+				"shuffledPeople"
+			],
+			[
+				"bd",
+				"bd+\tborder: ${1:1px} ${2:solid} ${3:#000};"
+			],
+			[
+				"jc",
+				"justify-content\tproperty"
+			],
+			[
+				"sort",
+				"sortedPeople"
+			],
+			[
+				"inst",
+				"instanceCount"
+			],
+			[
+				"nam",
+				"namesWithDe"
+			],
+			[
+				"al",
+				"allBlvdLinks"
+			],
+			[
+				"po",
+				"pop"
+			],
+			[
+				"b",
+				"border-box\tbox-sizing"
+			],
+			[
+				"b-s",
+				"box-sizing\tproperty"
+			],
+			[
+				"Fiz",
+				"FizzBuzzHandler"
+			],
+			[
+				"le",
+				"leftpad"
+			],
+			[
+				"new",
+				"newItem"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"crea",
+				"createElement"
+			],
+			[
+				"head",
+				"head_2_del"
+			],
+			[
+				"is",
+				"isinstance"
+			],
+			[
+				"ma",
+				"markup"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"ran",
+				"randAges"
+			],
+			[
+				"r",
+				"r_n"
+			],
+			[
+				"fn",
+				"fn2tin"
+			],
+			[
+				"ori",
+				"orig_fn"
+			],
+			[
+				"tex",
+				"text-justify"
+			],
+			[
+				"bgc",
+				"background-color\tproperty"
+			],
+			[
+				"drop",
+				"dropdown-toggle"
+			],
+			[
+				"rot",
+				"rot_chars"
+			],
+			[
+				"day",
+				"day_err"
+			],
+			[
+				"da",
+				"day_err"
+			],
+			[
+				"month",
+				"month_err"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"write",
+				"write_form"
+			],
+			[
+				"e",
+				"error_msg"
+			],
+			[
+				"mon",
+				"month_abbvs"
+			],
+			[
+				"mont",
+				"months_abbvs"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"next",
+				"next_node"
+			],
+			[
+				"reac",
+				"react-dom"
+			],
+			[
+				"m",
+				"message"
+			],
+			[
+				"fibo",
+				"fibo_memo"
+			],
+			[
+				"each",
+				"each_row"
+			],
+			[
+				"comp",
+				"comparing_list"
+			],
+			[
+				"ch",
+				"checker_col"
+			],
+			[
+				"ren",
+				"renderOrder"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "todo.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "todo.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 175.0,
+		"last_filter": "install pa",
+		"selected_items":
+		[
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimelinter:",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"eslint",
+				"ESLint"
+			],
+			[
+				"lint thi",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"list packa",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimelinter:relo",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"list pa",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"eslin",
+				"ESLint"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"encod",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"new bui",
+				"Build: New Build System"
+			],
+			[
+				"set syntax:ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"set ",
+				"Set Syntax: Tcl"
+			],
+			[
+				"enc",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"conve",
+				"Convert Case: Upper Case"
+			],
+			[
+				"rev",
+				"File: Revert"
+			],
+			[
+				"conver",
+				"Convert Case: Upper Case"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"reverse",
+				"Permute Lines: Reverse"
+			],
+			[
+				"con",
+				"Convert Case: Upper Case"
+			]
+		],
+		"width": 653.0
+	},
+	"console":
+	{
+		"height": 472.0,
+		"history":
+		[
+			"eslint",
+			"clear()",
+			"console.log('hi');",
+			"clear()",
+			"console.log(\"hi\")/\\;",
+			"reverseString(\"horse\")",
+			"terminal",
+			"del24Oct.py",
+			"run python",
+			"python",
+			"Logging.py",
+			"clear()",
+			"print(a.typeOf())",
+			"print(a.type())",
+			"print(a)",
+			"a = ('hi', 'there', 3, 'man')",
+			"a = tuple(\"hi\", \"there\")",
+			"(\"hi\", \"there\") = tuple()",
+			"a += \"hi\".tuple()",
+			"a += (\"hi\")",
+			"a += (\"hi)",
+			"print(a)",
+			"a += (3, )",
+			"print(a)",
+			"a = a + (1, )",
+			"a = a + 2",
+			"a.append('hi')",
+			"a = tuple()",
+			"print(\"hello\")"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/jeanp/Desktop/tester/tweets.json",
+		"/C/Users/jeanp/Desktop/tester/index.html",
+		"/C/Users/jeanp/Desktop/tester/async.js",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/testing/unittest_module/test_calc.py",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/testing/my_tests.py",
+		"/C/Users/jeanp/Documents/Programming/3__Projects/2__RobynWarrenWedding/saveTheDate/index.html",
+		"/C/Users/jeanp/Documents/Programming/Make-a-Pull-Request/Students/Jean_Wilson.md",
+		"/C/Users/jeanp/Documents/Programming/3__Projects/1__IllinoisConsultingGroup/icg/index.html",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/StaticSites/IllinoisConsultingGroup/index2.html",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/StaticSites/IllinoisConsultingGroup/index.html",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/portfolio/3/index.html",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/StaticSites/IllinoisConsultingGroup/style2.css",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/StaticSites/Generalist/index.html",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/portfolio/1/index.html",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/StaticSites/Reponsive/psd-to-wp/index.html",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/StaticSites/Reponsive/index.html",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/StaticSites/Gen_Practice/2__NineSept.html",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/StaticSites/JaniceUSA/styles/style.css",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/TWITTER_CLONE/no_framework/main.py",
+		"/C/Users/jeanp/Documents/Programming/NewsPlatform/Version_0/UdacityVM/fullstack-nanodegree-vm/vagrant/Twitter/without_framework/recap_from_scratch/AgainFromScratch_20Sept2018/db_population.py",
+		"/C/Users/jeanp/Documents/Programming/NewsPlatform/Version_0/UdacityVM/fullstack-nanodegree-vm/vagrant/Twitter/without_framework/recap_from_scratch/AgainFromScratch_18Sept2018/database_setup.py",
+		"/C/Users/jeanp/Documents/Programming/JavaScript/WesBos/JS30/1__JavaScript30/01 - JavaScript Drum Kit/index-START.html",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/StaticSites/Gen_Practice/styles/10_FlexBox_thurs20styles.css",
+		"/C/Users/jeanp/Documents/Programming/JavaScript/WesBos/FlexBox/What-The-Flexbox/intro/style.css",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/TWITTER_CLONE/no_framework/recap_from_scratch/SimpleGETandPOST/main.py",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/StaticSites/Gen_Practice/6__Sun16Sept18.html",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/StaticSites/Gen_Practice/7__Mon17Sept18.html",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/StaticSites/Gen_Practice/styles/6_sun16styles.css",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/InterviewPractice/DataStruct_Algs/pramp_probs.py",
+		"/C/Users/jeanp/Documents/Programming/Problems_to_KNOW/4__Sudoku.py",
+		"/C/Users/jeanp/Documents/Programming/Problems_to_KNOW/4__Sudoku_withExpl.py",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/InterviewPractice/DataStruct_Algs/DSPractice.py",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/InterviewPractice/DataStruct_Algs/gen_practice.py",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/ES6/drumKit.html",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/ES6/GenPrac.html",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/ES6/GenPrac.js",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/ES6/gen_prac.js",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/StaticSites/Gen_Practice/styles/5_wed12styles.css",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/StaticSites/Gen_Practice/profile.html",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/StaticSites/Gen_Practice/5__Wed12Sept18.html",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/StaticSites/Gen_Practice/4__Tues11Sept18.html",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/StaticSites/Gen_Practice/3__MondayTenSeptember.html",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/StaticSites/Gen_Practice/basics.html",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/StaticSites/Gen_Practice/1__main.html",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/StaticSites/Gen_Practice/layouts.html",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/PageLayouts/Layout_1/5__Wed12Sept18.html",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/PageLayouts/Layout_1/styles/5_wed12styles.css",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/PageLayouts/Layout_1/styles/style.css",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/PageLayouts/Layout_1/styles/basics_style.css",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/PageLayouts/Layout_1/styles/mon_ten_sept_style.css",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/PageLayouts/Layout_1/styles/Nine_Sep_style.css",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/PageLayouts/Layout_1/styles/style_2.css",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/PageLayouts/Layout_1/style_2.css",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/PageLayouts/Layout_1/style.css",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/PageLayouts/Layout_1/main.html",
+		"/C/Users/jeanp/Desktop/5Sept_ToDO.doc",
+		"/C/Users/jeanp/Desktop/jp.jpg",
+		"/C/Users/jeanp/Desktop/practice/style.css",
+		"/C/Users/jeanp/Desktop/practice/main.html",
+		"/C/Users/jeanp/Documents/Programming/NewsPlatform/Version_0/UdacityVM/fullstack-nanodegree-vm/vagrant/Twitter/without_framework/recap_from_scratch/main.py",
+		"/C/Users/jeanp/Documents/Programming/NewsPlatform/Version_0/UdacityVM/fullstack-nanodegree-vm/vagrant/Twitter/without_framework/recap_from_scratch/db_population.py",
+		"/C/Users/jeanp/Documents/Programming/NewsPlatform/Version_0/UdacityVM/fullstack-nanodegree-vm/vagrant/Twitter/without_framework/recap_from_scratch/database_setup.py",
+		"/C/Users/jeanp/Documents/Programming/NewsPlatform/Version_0/UdacityVM/fullstack-nanodegree-vm/vagrant/Twitter/without_framework/database_setup.py",
+		"/C/Users/jeanp/Documents/Programming/NewsPlatform/Version_0/UdacityVM/fullstack-nanodegree-vm/vagrant/Twitter/without_framework/db_population.py",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/healthy_nurse_network/main.html",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/healthy_nurse_network/static/style.css",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/healthy_nurse_network/script.js",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/healthy_nurse_network/Readme.md",
+		"/C/Users/jeanp/Documents/Programming/Practice/html_css_basics/2___GenPrac/3__MiscPractice24August2018/style.css",
+		"/C/Users/jeanp/Documents/Programming/Practice/html_css_basics/2___GenPrac/3__MiscPractice24August2018/script.js",
+		"/C/Users/jeanp/Documents/Programming/Practice/html_css_basics/2___GenPrac/3__MiscPractice24August2018/main.html",
+		"/C/Users/jeanp/Documents/Programming/Practice/html_css_basics/2___GenPrac/1__NiceCalcLayout/calculator_main.html",
+		"/C/Users/jeanp/Documents/Programming/Practice/html_css_basics/2___GenPrac/1__NiceCalcLayout/style.css",
+		"/C/Users/jeanp/Documents/Programming/NewsPlatform/Version_0/UdacityVM/fullstack-nanodegree-vm/vagrant/Twitter/without_framework/main.py",
+		"/C/Users/jeanp/Documents/Programming/NewsPlatform/Version_0/UdacityVM/fullstack-nanodegree-vm/vagrant/Twitter/source_stuff.py",
+		"/C/Users/jeanp/Documents/Programming/NewsPlatform/Version_0/UdacityVM/fullstack-nanodegree-vm/vagrant/Twitter/webserver.py",
+		"/C/Users/jeanp/Documents/Programming/NewsPlatform/Version_0/UdacityVM/fullstack-nanodegree-vm/vagrant/Twitter/db_population.py",
+		"/C/Users/jeanp/Documents/Programming/FSNDAgain_7June17_till_/HTTPWbSrvrs/course-ud303/Lesson-2/5_MessageboardPartThree/solution/MessageboardPartThree.py",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/style.css",
+		"/C/Users/jeanp/Documents/Programming/NewsPlatform/Version_0/UdacityVM/fullstack-nanodegree-vm/vagrant/Twitter/main.html",
+		"/C/Users/jeanp/Documents/Programming/NewsPlatform/Version_0/UdacityVM/fullstack-nanodegree-vm/vagrant/Twitter/database_setup.py",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/main.html",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/Css_Drawing/penguin.html",
+		"/C/Users/jeanp/Documents/Programming/HundredDaysCode/Css_Drawing/main.html",
+		"/C/Users/jeanp/Documents/Programming/FSNDAgain_7June17_till_/HTTPWbSrvrs/course-ud303/Lesson-2/5_MessageboardPartThree/MessageboardPartThree.py",
+		"/C/Users/jeanp/Desktop/temp.html",
+		"/C/Users/jeanp/Documents/Programming/NewsPlatform/Version_0/UdacityVM/fullstack-nanodegree-vm/vagrant/NewsPlatform/database_setup.py",
+		"/C/Users/jeanp/Documents/Programming/NewsPlatform/Version_0/UdacityVM/fullstack-nanodegree-vm/vagrant/NewsPlatform/main.py",
+		"/C/Users/jeanp/.gitconfig",
+		"/C/Users/jeanp/.git-credentials",
+		"/C/Users/jeanp/Documents/Programming/Problems_to_KNOW/DataStruct_Algs/gen_practice.py",
+		"/C/Users/jeanp/Documents/Programming/Problems_to_KNOW/DataStruct_Algs/pramp_probs.py",
+		"/C/Users/jeanp/Documents/Programming/JavaScript/WesBos/ES6_4_Beginners_5Mar18/4__Till_10July18_Prac/workingDoc.html",
+		"/C/Users/jeanp/Documents/Programming/Projects/Forum/forum/templates/asci.html",
+		"/C/Users/jeanp/Documents/Programming/JavaScript/WesBos/FlexBox/4__28Jun18Recap/index.html",
+		"/C/Users/jeanp/Documents/Programming/JavaScript/WesBos/FlexBox/4__28Jun18Recap/style.css",
+		"/C/Users/jeanp/Documents/Programming/CheatSheets/UseFulCodeSnippets/JS/templateStrings.html",
+		"/C/Users/jeanp/Desktop/del.py",
+		"/C/Users/jeanp/Documents/Programming/Problems_to_KNOW/DataStruct_Algs/UdascityDS_Course.py",
+		"/C/Users/jeanp/Documents/Programming/NewsPlatform/Version_0/Vagrantfile",
+		"/C/Users/jeanp/.ssh/known_hosts",
+		"/C/Users/jeanp/Documents/Programming/Projects/Forum/forum/main.py",
+		"/C/Users/jeanp/Desktop/temp/superTemp/binaryTree.py",
+		"/C/Users/jeanp/Desktop/temp/superTemp/great_version.py",
+		"/C/Users/jeanp/Desktop/temp/superTemp/mine3.py",
+		"/C/Users/jeanp/Documents/Programming/JavaScript/WesBos/ES6_4_Beginners_5Mar18/3__4til18May18_Prac/workWith.html",
+		"/C/Users/jeanp/Documents/Programming/JavaScript/WesBos/FlexBox/4__10Jun18Recap/style.css",
+		"/C/Users/jeanp/Documents/Programming/JavaScript/WesBos/FlexBox/4__10Jun18Recap/index.html",
+		"/C/Users/jeanp/Documents/Programming/JavaScript/WesBos/ES6_4_Beginners_5Mar18/3__4til18May18_Prac/style.css",
+		"/C/Users/jeanp/Documents/Programming/JavaScript/WesBos/ES6_4_Beginners_5Mar18/3__4til18May18_Prac/index.html",
+		"/C/Users/jeanp/Documents/Programming/JavaScript/WesBos/JS30/3__Attempt2_29May18/04 - Array Cardio Day 1/jpV3_7June18__PERFECT.html",
+		"/C/Users/jeanp/Documents/Programming/JavaScript/WesBos/JS30/3__Attempt2_29May18/04 - Array Cardio Day 1/jpV6_11June18.html",
+		"/C/Users/jeanp/Documents/Programming/JavaScript/WesBos/JS30/3__Attempt2_29May18/06 - Type Ahead/index-START.html",
+		"/C/Users/jeanp/Documents/Programming/JavaScript/WesBos/JS30/3__Attempt2_29May18/06 - Type Ahead/jpV1_9Jun.html",
+		"/C/Users/jeanp/Documents/Programming/JavaScript/WesBos/JS30/3__Attempt2_29May18/04 - Array Cardio Day 1/jpV5_10Jun18.html",
+		"/C/Users/jeanp/Documents/Programming/PerSite/NewSite/main.html",
+		"/C/Users/jeanp/Desktop/index_recap.html",
+		"/C/Users/jeanp/Documents/Programming/Projects/Forum/forum/templates/fizzbuzz.html",
+		"/C/Users/jeanp/Documents/Programming/Projects/Forum/forum/templates/shopping_list.html",
+		"/C/Users/jeanp/Documents/Programming/Projects/Forum/forum/temp/temp_prac.py",
+		"/C/Users/jeanp/Desktop/temp/superTemp/mine.py",
+		"/C/Users/jeanp/Desktop/temp/superTemp/mine2.py",
+		"/C/Users/jeanp/Documents/Programming/Problems_to_KNOW/3a__LinkedLists.py",
+		"/C/Users/jeanp/Documents/Programming/Projects/Forum/forum/index.html",
+		"/C/Users/jeanp/Documents/Programming/JavaScript/WesBos/learnReact/28May18/React-For-Beginners-Starter-Files/catch-of-the-day/public/index.html",
+		"/C/Users/jeanp/Desktop/main.py",
+		"/C/Users/jeanp/Desktop/linked_list.py",
+		"/C/Users/jeanp/Documents/Programming/JavaScript/WesBos/ES6_4_Beginners_5Mar18/3__4til18May18_Prac/index2.html"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"add",
+			"dd",
+			"d",
+			"dd",
+			"class",
+			"5",
+			"1",
+			"wrapper",
+			"lt=\"\"",
+			"\"images/",
+			"alt=\"\"",
+			"globe",
+			"This is the description here...",
+			">Put",
+			"svg",
+			"alt=\"icon\"",
+			"></li",
+			"</li",
+			"mages/",
+			"src=\"\"",
+			"jpg",
+			"About ",
+			"U",
+			"u",
+			"U",
+			"D",
+			"a",
+			".data_attributes",
+			"44%",
+			"90%",
+			";\n",
+			"0.45",
+			"4",
+			".2%",
+			" \n",
+			"</li>",
+			";\n",
+			"h1",
+			"<h1",
+			"color",
+			"19",
+			"border: 1px solid #000;",
+			"%;\n",
+			"border: 1px s",
+			"5px",
+			"10",
+			"{1}",
+			"multipart/form-data",
+			"required",
+			"0}",
+			"engine = create_engine('sqlite:///twitty.db')",
+			" JPs",
+			"user1",
+			"new_",
+			"max",
+			"min",
+			"p1",
+			");\n",
+			"title",
+			"deBlvds",
+			"p1",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.22.region_keys":
+							[
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": 22,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "todo.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.36.region_keys":
+							[
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "todo.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 83.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 160.0
+	},
+	"output.exec":
+	{
+		"height": 54.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 575.0
+	},
+	"pinned_build_system": "Packages/User/Python2.7.sublime-build",
+	"project": "AngularOne.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mai",
+				"main.html"
+			],
+			[
+				"ma",
+				"main.html"
+			],
+			[
+				"sc",
+				"script.js"
+			],
+			[
+				"su",
+				"SublimeText3.md"
+			],
+			[
+				"subl",
+				"SublimeText3.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
